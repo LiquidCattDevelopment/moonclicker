@@ -16,4 +16,4 @@ currently being supported with security updates.
 
 Report any vulnerability on discord, make ticket and i/dev will react!
 
-### DISCORD: dsc.gg/moonclicker
+### DISCORD: https://dsc.gg/moonclicker
